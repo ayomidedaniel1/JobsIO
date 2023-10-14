@@ -12,3 +12,7 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+## Design
+
+<https://dribbble.com/shots/11867493-Job-finder-Mobile-UI-Job-list>
