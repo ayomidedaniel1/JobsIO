@@ -17,5 +17,6 @@ npx create-expo-app -e with-router
 
 <https://dribbble.com/shots/11867493-Job-finder-Mobile-UI-Job-list>
 
-expo publish
-npx expo install expo-updates
+## Published expo app
+
+<https://expo.dev/accounts/the-aydev/projects/Jobs-io/updates/fdd8992d-3542-422b-a803-03e520700377>
